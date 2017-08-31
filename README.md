@@ -1,6 +1,9 @@
 # 真央ゼミWebサイト
 真央ゼミのWebサイト用リポジトリです。
-
+# member
+Dr. Maoh
+Elmas
+Wakaba
 # ディレクトリ構成
 ```
 seminar/
